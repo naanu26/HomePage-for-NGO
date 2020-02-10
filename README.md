@@ -1,2 +1,2 @@
 # HomePage-for-NGO
-A Sample HomePage For NGO crated using HTML, CSS and Javascript
+A Sample HomePage For NGO created using HTML, CSS and Javascript
